@@ -17,6 +17,7 @@ public class Taller {
     }
 
     public Set<Persona> obtenerClientes(){
+
         return reparaciones.keySet();
     }
 }
