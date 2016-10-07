@@ -44,3 +44,4 @@ public class MainVehiculos {
         System.out.println(registro.obtenerTodos());
 
     }
+}
